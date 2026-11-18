@@ -1,7 +1,7 @@
 # AI-агент продаж e-KNOT (онлайн-голосование)
 
 Воронка: анализ чата → лид → портрет клиента → холодный контакт → продажа.
-
+**Telegram-бот:** https://t.me/eknot_sales_agent_bot
 ## Қосу
 ```
 pip install -r requirements.txt
